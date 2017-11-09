@@ -1,0 +1,6 @@
+third
+10000
+second
+9450
+first
+2700
