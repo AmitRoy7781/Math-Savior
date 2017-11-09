@@ -1,0 +1,211 @@
+﻿Build started 4/9/2017 9:05:30 PM.
+     1>Project "G:\01_40_Math_Savior\Source code\SFMLtutorial.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"G:\01_40_Math_Savior\Source code\/include" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>g:\01_40_math_savior\source code\main.cpp(106): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(127): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(132): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(138): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(143): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(157): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(163): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(169): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(175): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(234): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(238): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(255): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(270): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(341): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(346): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(351): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(365): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(377): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(390): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(487): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(493): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(499): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(504): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(509): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(527): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(540): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(554): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(568): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(583): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(658): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(663): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(677): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(689): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(759): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(764): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(770): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(783): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(795): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(808): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(907): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(913): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(919): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(924): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(929): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(947): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(960): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(974): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(988): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1002): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1046): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>g:\01_40_math_savior\source code\main.cpp(1065): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>g:\01_40_math_savior\source code\main.cpp(1070): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>g:\01_40_math_savior\source code\main.cpp(1076): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1082): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1119): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1124): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1142): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1147): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1174): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>g:\01_40_math_savior\source code\main.cpp(1263): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>g:\01_40_math_savior\source code\main.cpp(1269): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(230) : see declaration of 'fscanf'
+     1>g:\01_40_math_savior\source code\main.cpp(1291): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1297): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1327): warning C4018: '<' : signed/unsigned mismatch
+     1>g:\01_40_math_savior\source code\main.cpp(1331): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>g:\01_40_math_savior\source code\main.cpp(1339): warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1343): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>g:\01_40_math_savior\source code\main.cpp(1344): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>g:\01_40_math_savior\source code\main.cpp(1345): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>g:\01_40_math_savior\source code\main.cpp(1350): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(211) : see declaration of 'fopen'
+     1>g:\01_40_math_savior\source code\main.cpp(1365): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1370): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1409): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1415): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1432): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1437): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1462): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1471): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>g:\01_40_math_savior\source code\main.cpp(1505): warning C4244: '=' : conversion from '__int64' to 'int', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1585): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1586): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1648): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1653): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1676): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1840): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1845): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1859): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1870): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1871): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1876): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1909): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1910): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1920): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1921): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1935): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1955): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1960): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1974): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1986): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1989): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(1993): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2025): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2026): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2037): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2038): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2054): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2063): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2064): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2080): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2115): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2234): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2235): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2241): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2243): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2252): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2267): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2268): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2314): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2315): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2339): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2340): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2341): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2344): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2345): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2346): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2354): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2355): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2356): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2362): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2363): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2364): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2396): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2405): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\string.h(112) : see declaration of 'strcpy'
+     1>g:\01_40_math_savior\source code\main.cpp(2515): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2516): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2578): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2583): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2606): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2770): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2775): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2789): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2801): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2804): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2809): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2841): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2842): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2852): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2853): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2867): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2887): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2892): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2906): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2915): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2918): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2923): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2955): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2956): warning C4244: 'initializing' : conversion from 'double' to 'int', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2967): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2968): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2984): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2993): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(2994): warning C4244: '=' : conversion from 'double' to 'int', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(3010): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(3046): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(3166): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(3167): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(3173): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(3175): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(3185): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(3200): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(3201): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(3247): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(3248): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(3272): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(3273): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(3274): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(3277): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(3278): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(3279): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(3287): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(3288): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(3289): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(3296): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(3297): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>g:\01_40_math_savior\source code\main.cpp(3298): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"G:\01_40_Math_Savior\Source code\Debug\SFMLtutorial.exe" /INCREMENTAL /NOLOGO /LIBPATH:"G:\01_40_Math_Savior\Source code\/lib" "sfml-network-d.lib" "sfml-audio-d.lib" "sfml-graphics-d.lib" "sfml-window-d.lib" "sfml-system-d.lib" kernel32.lib user32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"G:\01_40_Math_Savior\Source code\Debug\SFMLtutorial.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"G:\01_40_Math_Savior\Source code\Debug\SFMLtutorial.lib" /MACHINE:X86 Debug\main.obj
+         SFMLtutorial.vcxproj -> G:\01_40_Math_Savior\Source code\Debug\SFMLtutorial.exe
+     1>Done Building Project "G:\01_40_Math_Savior\Source code\SFMLtutorial.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:17.60
