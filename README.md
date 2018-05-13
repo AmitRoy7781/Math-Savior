@@ -7,7 +7,8 @@ A simple desktop game developed using **C++** and **SFML** library. It is develo
 - [Kashob Kumar Roy](https://github.com/forkkr)
 
 
-**Game Concept**
+**Game Concept:**
+
 The game is based on simple arithmetic calculations. A city is invaded by aliens, they are attacking the city with NUMBER bombs. You will be given a calculation and digits from 0 to 9 will fall from an alien spaceship. Now, you need to click on wrong digits to keep the city safe from the attack of aliens and let the correct digits fall on the city to charge the cannon which will launch a missile.
 
 **Language:**
