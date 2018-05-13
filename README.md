@@ -1,5 +1,6 @@
 # Math-Savior
-**Developed By: **
+
+**Developed By:**
 - [Kashob Kumar Roy](https://github.com/forkkr)
 - [Amit Roy](https://github.com/AmitRoy7)
 
