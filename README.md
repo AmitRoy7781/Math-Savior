@@ -3,7 +3,7 @@
 A simple desktop game developed using **C++** and **SFML** library. It is developed as a first year lab project with the indend to learn the implementation of the basic knowledge of C++ and graphics.
 
 **Developed By:**
-- [Amit Roy](https://github.com/AmitRoy7)
+- [Amit Roy](https://amitroy7781.github.io)
 - [Kashob Kumar Roy](https://github.com/forkkr)
 
 
